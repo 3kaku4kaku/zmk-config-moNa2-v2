@@ -39,7 +39,7 @@ layers:
   - F16
   - {t: '&to_layer_0 LANG1', h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
+  - {t: '&to_layer_0 LANG2', h: '5'}
   - BACKSPACE
   - {t: ENTER, h: '1'}
   - LEFT ALT
@@ -245,16 +245,16 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '&mkp MB4'
+  - {t: ▽, type: trans}
+  - '&mkp MB5'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
