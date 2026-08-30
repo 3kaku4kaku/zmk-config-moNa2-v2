@@ -37,44 +37,44 @@ layers:
   - LCTRL
   - LEFT WIN
   - F16
-  - {t: '&to_layer_0 LANG1', h: '3'}
+  - {t: '&to_layer_0 LANGUAGE_2', h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '5'}
+  - {t: '&to_layer_0 LANG1', h: '5'}
   - BACKSPACE
   - {t: ENTER, h: '1'}
   - LEFT ALT
   '1':
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
+  - {t: ▽, type: trans}
+  - '7'
+  - '8'
+  - '9'
+  - '-'
   - '6'
   - '7'
   - '8'
   - '9'
   - '0'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '['
-  - ']'
-  - {t: ▽, type: trans}
+  - '4'
+  - '5'
+  - '6'
+  - +
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - (
   - )
   - {t: ▽, type: trans}
   - \
+  - '0'
+  - '1'
+  - '2'
+  - '3'
+  - '*'
+  - '='
+  - RIGHT SHIFT
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: '[', h: toggle}
+  - ']'
   - {t: ▽, type: trans}
   - '|'
   - {t: ▽, type: trans}
