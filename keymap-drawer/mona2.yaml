@@ -35,8 +35,8 @@ layers:
   - .
   - /
   - LCTRL
-  - LEFT WIN
   - F16
+  - LEFT WIN
   - {t: '&to_layer_0 LANGUAGE_2', h: '3'}
   - {t: SPACE, h: '2'}
   - {t: '&to_layer_0 LANG1', h: '5'}
